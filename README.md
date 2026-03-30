@@ -1,46 +1,93 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=NSEN%20🎮&fontSize=40"/>
-</p>
+<!-- Dark Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&size=24&center=true&vCenter=true&width=550&lines=Leveling+up+as+a+Developer;Flutter+%2B+Frontend+Player+🔥"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=NSEN&fontColor=58A6FF&fontSize=40"/>
+</p>
+
+<!-- Typing -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+📱;Frontend+Developer+💻;Software+Engineering+Student+🎓;Open+to+Internship+💼" />
 </p>
 
 ---
 
-## 🕹️ Player Info
+## 👨‍💻 About
 
 ```bash
-Name: NSEN
-Class: Developer
-Skills: Flutter, React
-Status: Grinding for internship
+> Final-year Software Engineering student
+> Flutter & Frontend Developer
+> Focus: clean UI, performance, real-world apps
+> Status: Open to Internship / Fresher
 ```
 
 ---
 
-## 🎬 Gameplay
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,firebase,docker,figma,git,github" />
 </p>
 
 ---
 
-## ⚔️ Skills
+## 🚀 Projects
+
+### 📱 Notes App
+
+```bash
+- CRUD notes (SQLite / Hive)
+- Dark mode + smooth UI
+```
+
+### 🌦️ Weather App
+
+```bash
+- REST API integration
+- Location-based data
+```
+
+### 💻 Portfolio Website
+
+```bash
+- Responsive design
+- Built with React
+```
+
+---
+
+## 🧠 Currently Learning
+
+```bash
+- Clean Architecture
+- State Management (Riverpod / Bloc)
+- UI/UX Design principles
+```
+
+---
+
+## 🌐 Contact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,js,docker,git" />
+  <a href="https://github.com/nsen1008">
+    <img src="https://img.shields.io/badge/GitHub-nsen1008-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+  </a>
+  <a href="mailto:thanhsang2418@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 Mission
+## 🎯 Goal
 
-* Build apps
-* Gain experience
-* Unlock job 🔓
+```bash
+> Become a professional Flutter & Frontend Developer
+> Build real-world applications
+```
 
 ---
 
-✨ *Game is just getting started...*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2"/>
+</p>
