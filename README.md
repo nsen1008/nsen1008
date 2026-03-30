@@ -104,7 +104,7 @@
   <a href="https://github.com/nsen1008">
     <img src="https://img.shields.io/badge/GitHub-NSEN1008-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:thanhsang2418@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
