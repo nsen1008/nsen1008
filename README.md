@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year **Software Engineering Student**
-📱 Focused on **Flutter Mobile Development**
+📱 Focused on **Flutter Mobile Development/ Frontend Developer**
 🚀 Passionate about building **real-world applications**
 💼 Currently seeking **Intern / Fresher opportunities**
 
@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio, figma, react" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
   <a href="https://github.com/nsen1008">
     <img src="https://img.shields.io/badge/GitHub-NSEN1008-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:thanhsang2418@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
