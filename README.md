@@ -72,7 +72,7 @@
   <a href="https://github.com/nsen1008">
     <img src="https://img.shields.io/badge/GitHub-nsen1008-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:thanhsang2418@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
   </a>
 </p>
