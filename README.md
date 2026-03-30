@@ -7,7 +7,7 @@
 <!-- Typing effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Flutter+Developer+🚀;Software+Engineering+Student+🎓;Open+to+Internship+💼;I+build+cool+apps+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Flutter+Developer+📱;Frontend+Developer+💻;Software+Engineering+Student+🎓;Open+to+Internship+💼" />
 </p>
 
 ---
@@ -15,16 +15,30 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year **Software Engineering Student**
-📱 Focused on **Flutter Mobile Development/ Frontend Developer**
-🚀 Passionate about building **real-world applications**
+📱 Flutter Developer & 💻 Frontend Developer
+🚀 Passionate about building **modern, user-friendly applications**
 💼 Currently seeking **Intern / Fresher opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 📱 Mobile
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio, figma, react" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 💻 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Tools & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -33,21 +47,21 @@
 
 ### 📱 Flutter Notes App
 
-* 📝 CRUD notes with local database (SQLite/Hive)
-* 🎨 Clean UI + Dark mode
-* ⚡ Smooth performance
+* 📝 CRUD notes (SQLite / Hive)
+* 🌙 Dark mode + clean UI
+* ⚡ Optimized performance
 
 ### 🌦️ Weather App
 
-* 🌐 Fetch real-time weather API
+* 🌐 REST API integration
 * 📍 Location-based weather
-* 💫 Modern UI with animations
+* 💫 Smooth animations
 
-### 🛒 Mini E-commerce App
+### 💻 Portfolio Website
 
-* 🛍️ Product listing & cart
-* 🔥 State management (Provider/Riverpod)
-* 💳 Checkout flow UI
+* 🌍 Responsive web design
+* ⚛️ Built with React
+* 🎨 Modern UI/UX
 
 ---
 
@@ -90,7 +104,7 @@
   <a href="https://github.com/nsen1008">
     <img src="https://img.shields.io/badge/GitHub-NSEN1008-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:thanhsang2418@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -99,10 +113,10 @@
 
 ## 🎯 Goals 2026
 
-* 🚀 Build strong Flutter portfolio
-* 📱 Publish app on Play Store
+* 🚀 Become **Flutter & Frontend Developer**
+* 📱 Build production-ready apps
 * 💼 Land first developer job
-* 🔥 Master Clean Architecture
+* 🔥 Master Clean Architecture & UI/UX
 
 ---
 
@@ -118,7 +132,7 @@
   🌈✨ Thanks for visiting my profile ✨🌈  
 </p>
 
-<!-- Footer wave -->
+<!-- Footer -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
