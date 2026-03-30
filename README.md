@@ -1,48 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NSEN%20⚡&fontColor=00F7FF&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=NSEN%20🎮&fontSize=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+Developer;Frontend+Developer;Cyberpunk+Coding+Mode+😈"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&size=24&center=true&vCenter=true&width=550&lines=Leveling+up+as+a+Developer;Flutter+%2B+Frontend+Player+🔥"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🕹️ Player Info
 
 ```bash
-> coding in the dark...
-> building mobile & web apps
-> always learning something new
+Name: NSEN
+Class: Developer
+Skills: Flutter, React
+Status: Grinding for internship
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## 🎬 Gameplay
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,docker,figma,git" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
 </p>
 
 ---
 
-## 🎬 Dev Life
+## ⚔️ Skills
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,js,docker,git" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🎯 Mission
 
-* Notes App
-* Weather App
-* Portfolio Website
+* Build apps
+* Gain experience
+* Unlock job 🔓
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
-</p>
+✨ *Game is just getting started...*
