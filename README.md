@@ -13,8 +13,6 @@
 ## 👨‍💻 About Me
 
 ```bash
-> 🎓 Final-year Software Engineering student at HUTECH (GPA: 3.05/4.0)
-> 💼 Former Front-End Developer Intern @ DUDI Software (01/2026 - 06/2026)
 > 📜 Meta Front-End Developer Certified (2026) & English B1 (2025)
 > 🚀 Focus: Responsive UI, Clean Code, REST API Integration & Performance
 > 📍 Location: Thu Duc City, Ho Chi Minh City, Vietnam
