@@ -45,61 +45,88 @@
 
 ## 🚀 Featured Real-World Projects
 
-### 🏝️ [ConDaoTrip — Tourism & Tour Booking Platform](https://con-dao-trip.vercel.app)
-> **Techstack:** `Next.js` • `React.js` • `TypeScript` • `Tailwind CSS` • `REST API`
-- 🌐 **Multilingual System:** Tích hợp hệ thống đa ngôn ngữ linh hoạt hỗ trợ **8+ thứ tiếng** (Anh, Pháp, Hàn, Nhật, Việt,...).
-- 🛡️ **Admin Portal & Protected Routes:** Hệ thống quản trị phân quyền (`/admin/*`) thực hiện toàn bộ CRUD Tour, bài viết, banner và form tư vấn.
-- 📱 **User Booking Journey:** Xây dựng luồng khám phá tour chi tiết, bảng giá đa hạng vé, accordion lịch trình và tích hợp dịch vụ phụ trợ.
+### 🏝️ [ConDaoTrip — Con Dao Travel & Services Website](https://condaotrip.com.vn)
+> **Tech Stack:** `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Axios` • `i18next`
+> **Context:** DUDI Software · Front-end Developer
+
+- Developed responsive interfaces for tour listings and details, services, articles, and admin management.
+- Integrated REST APIs to connect public-facing pages and content management interfaces with backend services.
+- Implemented support for **8 languages** using i18next and language-based routing.
 
 ---
 
-### 🎁 [Món Quà Nhỏ — Community Gift Sharing Platform](https://mon-qua-nho-v4-1.vercel.app)
-> **Techstack:** `Next.js` • `React.js` • `TypeScript` • `Tailwind CSS` • `Google OAuth` • `REST API`
-- 💬 **Real-time Messaging:** Hệ thống nhắn tin trực tiếp thời gian thực giữa người tặng và người nhận quà.
-- 📊 **Analytics Dashboard:** Trang quản trị trực quan hóa số liệu bài đăng, lượt yêu cầu quà và hỗ trợ xuất dữ liệu ra file **Excel**.
-- 🔐 **OAuth & Workflows:** Đăng nhập bảo mật qua Google, luồng kiểm duyệt bài đăng và cập nhật trạng thái quà (Available / Gifted).
+### 🌿 [Cao Nguyen Xanh — Printing & Packaging Corporate Website](https://caonguyenxanh.com.vn)
+> **Tech Stack:** `React` • `JavaScript` • `Vite` • `Tailwind CSS` • `React Router` • `Axios` • `Framer Motion`
+> **Context:** DUDI Software · Front-end Developer
+
+- Developed product, gallery, project, and corporate website interfaces with reusable UI components.
+- Implemented debounced product search, category filtering, pagination, and URL-based search parameters.
+- Integrated REST APIs for product and content management, with shared request and error handling.
 
 ---
 
-### 🌿 [Cao Nguyên Xanh — Corporate Website & CMS](https://caonguyenxanh.com.vn)
-> **Techstack:** `Vite` • `React.js` • `TypeScript` • `Tailwind CSS` • `REST API`
-- 📝 **Admin CMS & Rich-Text:** Hệ thống quản trị nội dung tùy biến tin tức, danh mục sản phẩm với trình soạn thảo trực quan.
-- 📄 **Export & Forms:** Tích hợp công cụ xuất đề xuất sang **PDF**, form liên hệ xác thực phía client và nhúng bản đồ tương tác.
-- ⚡ **SEO & Performance:** Tối ưu hóa thẻ ngữ nghĩa HTML5, script metadata và đạt độ tương thích cao trên mọi thiết bị di động.
+### 🏔️ [Odyssey Ha Giang — Ha Giang Travel Experience Website](https://www.odysseyhagiangloop.com)
+> **Tech Stack:** `React` • `TypeScript` • `Vite` • `Tailwind CSS` • `React Router` • `Framer Motion` • `Fetch API`
+> **Context:** DUDI Software · Front-end Developer
+
+- Developed interfaces for tours, destinations, articles, galleries, and travel services.
+- Integrated APIs for admin authentication and article management, mapping backend responses to frontend data structures.
+- Implemented route-specific SEO metadata, lazy-loaded images, loading states, and frontend error handling.
 
 ---
 
-### 📱 [Marketing Landing Page — PIP](https://landing-pip.vercel.app)
-> **Techstack:** `Next.js` • `React.js` • `TypeScript` • `Tailwind CSS`
-- 🎯 **High Conversion Layout:** Thiết kế bố cục tinh gọn với Hero, Mission & Values, lưới dịch vụ (Tax, Compliance, Bookkeeping) và bảng quy trình 4 bước.
-- 📧 **Email Integration:** Tích hợp form đăng ký tư vấn tự động gửi thông báo trực tiếp đến hộp thư của cố vấn.
-- ✨ **UX & Motion:** Hiệu ứng cuộn trang mượt mà (scroll reveal animations) với lời kêu gọi hành động (CTA) tối ưu chuyển đổi.
+### 🎁 [Mon Qua Nho — Community Item-Sharing Platform](https://mon-qua-nho-v4-1.vercel.app)
+> **Tech Stack:** `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Ant Design` • `TanStack Query` • `Zustand` • `Socket.IO`
+> **Context:** DUDI Software · Front-end Developer Intern
+
+- Developed item discovery, posting, user profile, authentication, and item request features.
+- Used TanStack Query for server data fetching and updates, and Zustand for application state management.
+- Implemented real-time messaging using Socket.IO and contributed to admin management interfaces.
 
 ---
 
-### 🔬 [PartsLab — Kho Linh Kiện Điện Thoại Kỹ Thuật](https://linh-kien-dien-thoai.vercel.app)
-> **Techstack:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Zustand`
-- 🔍 **Interactive Teardown:** Bóc tách từng tầng linh kiện phần cứng (OLED 120Hz, Camera OIS, Micro-PCB, Pin Cobalt BMS).
-- ⚖️ **Kiểm tra tương thích & So sánh:** Bộ lọc tìm kiếm nhanh theo SKU/Model, kiểm tra độ tương thích dòng máy và so sánh thông số kỹ thuật.
+### 🌊 [Con Dao Landing Page — Tourism Landing Page](https://www.condaonationalpark.com)
+> **Tech Stack:** `React` • `TypeScript` • `Vite` • `Tailwind CSS` • `GSAP / ScrollTrigger` • `Lenis` • `Motion`
+> **Context:** DUDI Software · Front-end Developer Intern
+
+- Developed a responsive tourism landing page featuring tours, services, destinations, and image galleries.
+- Implemented scroll-based animations, parallax effects, text reveals, and smooth scrolling.
+- Organized reusable animation components and separated page content from presentation components for easier updates.
 
 ---
 
-## 🏆 Work Experience & Education
+## 💼 Work Experience
 
-```bash
-[01/2026 - 06/2026] DUDI Software — Front-End Developer Intern
-             - Developed production-ready web interfaces & corporate CMS portals.
-             - Collaborated with UI/UX designers and backend developers via REST APIs.
-             - Built multilingual systems, dynamic dashboards, and PDF/Excel export tools.
+### DUDI Software — Front-end Developer
+**Apr 2026 – Sep 2026**
 
-[2022 - 2026] Ho Chi Minh City University of Technology (HUTECH)
-             - Major: Software Engineering | GPA: 3.05 / 4.00
-             - Relevant coursework: Web Development, Database Systems, OOP, Mobile Dev.
+- Developed and maintained frontend features for client projects using React, Next.js, TypeScript, JavaScript, and Tailwind CSS.
+- Built responsive interfaces and reusable components, integrated REST APIs, and refined user interactions across tourism and corporate websites.
+- Implemented multilingual interfaces, product search and filtering, pagination, and page-level SEO metadata.
+- **Projects:** ConDaoTrip, Cao Nguyen Xanh, Odyssey Ha Giang.
 
-[Certifications]
-             - 2026: Meta Front-End Developer Certificate
-             - 2025: English Proficiency Certificate – Level B1
-```
+### DUDI Software — Front-end Developer Intern
+**Jan 2026 – Mar 2026**
+
+- Contributed to web applications and landing pages, focusing on responsive interfaces, reusable components, and API integration.
+- Worked with TanStack Query and Zustand for data and state management, and Socket.IO for real-time messaging.
+- Developed interactive landing page animations, including scroll reveals, parallax effects, and smooth scrolling.
+- **Projects:** Mon Qua Nho, Con Dao Landing Page.
+
+---
+
+## 🎓 Education
+
+### Ho Chi Minh City University of Technology (HUTECH)
+**2022 – 2026 · Software Engineering**
+
+- **GPA:** 3.06 / 4.00
+- **Relevant coursework:** Web Development, Database Systems, Object-Oriented Programming, Mobile Development.
+
+## 📜 Certifications
+
+- **2026:** Meta Front-End Developer
+- **2025:** English Proficiency Certificate — Level B1
 
 ---
 
